@@ -11,7 +11,7 @@
     
   </head>
   <body>
-    <?php  $url="http://".$_SERVER['HTTP_HOST']."/cafeteria"?>
+    <?php  $url="http://".$_SERVER['HTTP_HOST']."/PruebaKonecta"?>
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
       <div class="nav navbar-nav">
           <a class="nav-item nav-link active" href="#">Administrador </a>
