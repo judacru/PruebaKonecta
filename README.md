@@ -16,7 +16,7 @@ $contrasenia="";
 
 * Ejecutar los queries en phpmyadmin
 
-* Pegar la siguiente dirección en Google Chrome: http://localhost/cafeteria/
+* Pegar la siguiente dirección en Google Chrome: http://localhost/PruebaKonecta/
 
 ## Base de datos
 
